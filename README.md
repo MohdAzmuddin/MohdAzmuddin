@@ -1,15 +1,10 @@
-# Hi 👋, I'm Parshuram  
+# Hi 👋, I'm Mohd Azmuddin  
 
 A Software Developer passionate about building user-friendly products, solving problems, and learning continuously.  
 
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=parshuKumar&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=MohdAzmuddin&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=parshuKumar" />
-</p>
-
 ---
 
 ## 🚀 About Me  
@@ -24,7 +19,7 @@ A Software Developer passionate about building user-friendly products, solving p
 
 ## 🌐 Portfolio & Resume  
 
-- 🔗 Portfolio: https://parshuramkumar.vercel.app/  
+- 🔗 Portfolio: https://azmuddin.vercel.app/  
 - 📄 Resume: [Download Here](#)  
 
 ---
@@ -33,7 +28,7 @@ A Software Developer passionate about building user-friendly products, solving p
 
 ### 🧑‍💻 Languages  
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,java,js,html,css" />
+<img src="https://skillicons.dev/icons?i=java,c,js,html,css" />
 </p>
 
 ### ⚙ Frameworks & Libraries  
@@ -51,11 +46,11 @@ A Software Developer passionate about building user-friendly products, solving p
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parshuKumar&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohdAzmuddin&layout=compact" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parshuKumar" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohdAzmuddin" />
 </p>
 
 <p align="center">
