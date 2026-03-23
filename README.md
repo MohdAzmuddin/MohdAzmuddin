@@ -46,13 +46,15 @@ A Software Developer passionate about building user-friendly products, solving p
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohdAzmuddin&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohdAzmuddin&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohdAzmuddin" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohdAzmuddin&theme=tokyonight" />
 </p>
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MohdAzmuddin&show_icons=true&theme=tokyonight" />
+</p>
   <img src="https://github-readme-stats.vercel.app/api?username=parshuKumar&show_icons=true" />
 </p>
