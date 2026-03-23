@@ -1,60 +1,107 @@
-# Hi 👋, I'm Mohd Azmuddin  
+<table width="100%">
+  <tr>
+    <td align="left">
+      <h1>Hi 👋, I'm Mohd Azmuddin</h1>
+      <h4>A Software Developer passionate about building user-friendly products, solving problems, and learning continuously.</h4>
+    </td>
+    <td align="right">
+      <img src="https://komarev.com/ghpvc/?username=MohdAzmuddin&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+    </td>
+  </tr>
+</table>
 
-A Software Developer passionate about building user-friendly products, solving problems, and learning continuously.  
+## 🚀 About Me
 
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=MohdAzmuddin&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
----
-
-## 🚀 About Me  
-
-- 👨‍💻 Aspiring Software Developer focused on full-stack web development  
-- 💻 Built projects like CampusMatch (dating app), BookMyLawyer, Swiggy API integration site, and a Nike landing page  
-- 🧩 Strong in Data Structures & Algorithms, practicing on LeetCode and CodeChef  
-- 🌱 Currently learning React, Next.js, TypeScript, and exploring competitive programming  
-- 🎓 Pursuing MCA, with a passion for creating scalable and user-friendly applications  
-
----
-
-## 🌐 Portfolio & Resume  
-
-- 🔗 Portfolio: https://azmuddin.vercel.app/  
-- 📄 Resume: [Download Here](#)  
+- 👨‍💻 Aspiring **Software Developer** focused on full-stack web development  
+- 💻 Built projects like **CampusMatch (dating app)**, **BookMyLawyer**, **Swiggy API integration site**, and a **Nike landing page**  
+- 🧩 Strong in **Data Structures & Algorithms**, practicing on **LeetCode** and **CodeChef**  
+- 🌱 Currently learning **React, Next.js, TypeScript**, and exploring **competitive programming**  
+- 🎓 Pursuing **MCA**, with a passion for creating scalable and user-friendly applications
 
 ---
 
-## 🛠 Languages & Tools  
+## 🌐 Portfolio & Resume
 
-### 🧑‍💻 Languages  
-<p>
-<img src="https://skillicons.dev/icons?i=java,c,js,html,css" />
-</p>
-
-### ⚙ Frameworks & Libraries  
-<p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,redux,bootstrap" />
-</p>
-
-### 🧰 Tools & Platforms  
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,netlify,vercel" />
-</p>
+- 🔗 *Portfolio*: [azmuddin.vercel.app/](https://azmuddin.vercel.app/)  
+- 📄 *Resume*: [Download Here](https://drive.google.com/file/d/1sOQTpn8FEHeXdWzGv2dNF-Ql06sZVt9B/view)
 
 ---
 
-## 📊 GitHub Stats  
+## 🛠 Languages & Tools
+
+### 🧑‍💻 Languages
+
+<table>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=cpp" height="40"/><br />Java</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=java" height="40"/><br />C</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=js" height="40"/><br />JavaScript</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=html" height="40"/><br />HTML</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=css" height="40"/><br />CSS</td>
+<!--     <td align="center"><img src="https://skillicons.dev/icons?i=py" height="40"/><br />Python</td> -->
+<!--     <td align="center"><img src="https://skillicons.dev/icons?i=ts" height="40"/><br />TypeScript</td> -->
+<!--     <td align="center"><img src="https://skillicons.dev/icons?i=php" height="40"/><br />PHP</td> -->
+  </tr>
+</table>
+
+### ⚙ Frameworks & Libraries
+
+<table>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=react" height="40"/><br />React.js</td>
+<!--     <td align="center"><img src="https://skillicons.dev/icons?i=react" height="40"/><br />React Native</td> -->
+    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" height="40"/><br />Node.js</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=express" height="40"/><br />Express.js</td>
+<!--     <td align="center"><img src="https://skillicons.dev/icons?i=firebase" height="40"/><br />Firebase</td> -->
+<!--     <td align="center"><img src="https://skillicons.dev/icons?i=graphql" height="40"/><br />GraphQL</td> -->
+<!--     <td align="center"><img src="https://skillicons.dev/icons?i=laravel" height="40"/><br />Laravel</td> -->
+<!--     <td align="center"><img src="https://skillicons.dev/icons?i=nextjs" height="40"/><br />Next.js</td> -->
+    <td align="center"><img src="https://skillicons.dev/icons?i=redux" height="40"/><br />Redux</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=bootstrap" height="40"/><br />Bootstrap</td>
+  </tr>
+</table>
+
+### 🧰 Tools & Platforms
+
+<table>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=git" height="40"/><br />Git</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=github" height="40"/><br />GitHub</td>
+<!--     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="40"/><br />Bitbucket</td> -->
+<!--     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="80px"/><br />Jira</td> -->
+<!--     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="40"/><br />Jenkins</td> -->
+<!--     <td align="center"><img src="https://skillicons.dev/icons?i=figma" height="40"/><br />Figma</td> -->
+    <td align="center"><img src="https://skillicons.dev/icons?i=vscode" height="40"/><br />VS Code</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=netlify" height="40"/><br />Netlify</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=vercel" height="40"/><br />Vercel</td>
+<!--     <td align="center"><img src="https://skillicons.dev/icons?i=linux" height="40"/><br />Linux</td> -->
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohdAzmuddin&layout=compact&theme=tokyonight" />
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MohdAzmuddin&layout=compact&theme=radical" 
+      media="(prefers-color-scheme: dark)" />
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MohdAzmuddin&layout=compact&theme=default" 
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohdAzmuddin&layout=compact" alt="Top Languages" />
+  </picture>
+  &nbsp;&nbsp;
+  <picture>
+    <source 
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=MohdAzmuddin&theme=radical" 
+      media="(prefers-color-scheme: dark)" />
+    <source 
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=MohdAzmuddin&theme=default" 
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=parshuKumar" alt="GitHub Streak" />
+  </picture>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohdAzmuddin&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohdAzmuddin&show_icons=true&theme=tokyonight" />
-</p>
-  <img src="https://github-readme-stats.vercel.app/api?username=parshuKumar&show_icons=true" />
-</p>
+---
